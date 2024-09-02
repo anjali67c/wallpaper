@@ -1,0 +1,14 @@
+body {
+  background-image: url(image.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  margin-top: 200px;
+  font-size: 80px;
+  font-family: candara;
+  text-shadow: 2px 2px 2px wheat;
+}/*# sourceMappingURL=wallpaper.css.map */
